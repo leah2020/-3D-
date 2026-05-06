@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Interstellar Tesseract 5D",
+  "name": "Interstellar 3D Gesture Interactive Photo Album",
   "description": "An interactive 3D WebGL experience inspired by the 5th dimension from Interstellar. Use hand gestures to navigate the timeline and explore memories.",
   "requestFramePermissions": [
     "camera"
